@@ -1,0 +1,3 @@
+>> ./test input_filename output_filename key algorithm type
+like this 
+ ./test 001.txt 001.txt.enc 12345678 -RC4 e
